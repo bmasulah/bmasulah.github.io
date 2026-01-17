@@ -29,7 +29,7 @@ redirect_from:
 - Focus: Multiscale Mathematical Modeling, Computational Biology, Complex Systems, Numerical Simulation  
 
 **B.Sc. in Mathematics**  
-Airlangga University, Indonesia  
+[Universitas Airlangga](https://unair.ac.id/), Indonesia  
 *2015 – 2019*  
 - GPA: **3.74 / 4.00**  
 - Thesis: [*Inequalities for q-Gamma Function*](https://repository.unair.ac.id/85956/)  
@@ -89,7 +89,7 @@ Airlangga University, Indonesia
 
 ---
 
-## 👩‍🏫 Work Experience
+## 👩‍🏫 Teaching Experience
 
 **SAT Tutor (Verbal & Mathematics)** — Kobi Education  
 *2025 – Present*  
