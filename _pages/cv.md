@@ -138,8 +138,11 @@ redirect_from:
 
 ## 🎓 Scholarships
 
-- **LPDP Overseas Master Scholarship**, Ministry of Finance, Indonesia (2023–2025)  
-- **PPA Scholarship**, Undergraduate Excellence Award (2015–2019)
+- **LPDP Overseas Master Scholarship**, Ministry of Finance, Indonesia (2023–2025)
+- **Bidikmisi Scholarship**, merit- and need-based national scholarship for undergraduate study, Indonesia (2018–2019)
+-  **Tahfidz Scholarship**, awarded for Qur’an memorization (5 juz), Universitas Airlangga (2017-2018)
+- **PPA Scholarship (Peningkatan Prestasi Akademik)**, undergraduate academic excellence award, Indonesia (2016–2017)
+
 
 ---
 
