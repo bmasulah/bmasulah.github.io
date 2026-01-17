@@ -5,36 +5,35 @@ permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
----
+
 
 {% include base_path %}
 
----
 
 
-## **Bidayatul Masulah (Bida)**
+## **Bidayatul Masulah, S.Si, M.Sc**
 
 ---
 
 ## 🎓 Education
 
-**M.Sc. in Mathematics (Applied Mathematics)**  
-Leiden University, The Netherlands  
+**M.Sc. in Mathematics (Specialization Applied Mathematics)**  
+[Leiden University](https://www.universiteitleiden.nl/en), The Netherlands  
 *2023 – 2025*  
 - GPA: **8/10**  
-- Thesis: *Computer Modeling of Thymic Epithelial Cell Morphology*  
-- Thesis Internship: Utrecht University (July 2024 – January 2025)  
+- Thesis: [*Computer Modeling of Thymic Epithelial Cell Morphology*](https://studenttheses.universiteitleiden.nl/handle/1887/4208946)  
+- Thesis Internship: [Computational Animal Development Group](https://bioinformatics.bio.uu.nl/erika/index.html), [Utrecht University](https://www.uu.nl/en) (July 2024 – January 2025)  
 - Supervisors:  
-  - Dr. Erika Tsingos (Utrecht University)  
-  - Prof. dr. Roeland M. H. Merks (Leiden University)  
+  - [Dr. Erika Tsingos](https://www.uu.nl/staff/ETsingos) (Utrecht University)  
+  - [Prof. dr. Roeland M. H. Merks](https://www.universiteitleiden.nl/en/staffmembers/roeland-merks#tab-1) (Leiden University)  
 - Focus: Multiscale Mathematical Modeling, Computational Biology, Complex Systems, Numerical Simulation  
 
 **B.Sc. in Mathematics**  
 Airlangga University, Indonesia  
 *2015 – 2019*  
 - GPA: **3.74 / 4.00**  
-- Thesis: *Ketaksamaan pada Fungsi Gamma-q*  
-- Supervisors: Dr. Eridani; Abdulloh Jaelani, M.Si.
+- Thesis: [*Inequalities for q-Gamma Function*](https://repository.unair.ac.id/85956/)  
+- Supervisors: [Dr. Eridani](https://scholar.unair.ac.id/en/persons/eridani-eridani-3/); [Abdulloh Jaelani, M.Si](https://scholar.unair.ac.id/en/persons/abdulloh-jaelani-3/).
 
 ---
 
