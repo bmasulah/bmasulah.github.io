@@ -1,13 +1,16 @@
 ---
 permalink: /
-title: "Bidayatul Masulah — Mathematics, Teaching, and Beyond"
+title: "Bidayatul Masulah — Mathematics, Education, and Beyond"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Hi, I’m Bidayatul Masulah, though most people call me **Bida**.
+Hi precious people! 
+
+Bidayatul Masulah's here 👋 though most people address me as **Bida**.
+
 I hold a Master’s degree in Applied Mathematics from **Leiden University**, with my thesis research carried out at **Utrecht University**. My academic work sits at the intersection of mathematics, computation, and biological systems, where I use mathematical models and simulations to study complex phenomena.
 
 Research Interests
@@ -19,7 +22,7 @@ My research interests include:
 - Simulation of biological and complex systems
 - Quantitative methods for interdisciplinary research
 
-During my master’s thesis, I worked on computational models of cellular systems. This experience helped me move comfortably between mathematical formulation, simulation, and interpretation, while collaborating with researchers outside mathematics.
+During my master’s thesis, I worked on computational models of cellular systems, which helped me move comfortably between mathematical formulation, simulation, and interpretation, while collaborating with researchers outside mathematics.
 
 Teaching & Professional Experience
 ======
