@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "contrast" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+site_theme               : "dirt" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Bida's here!"
 title_separator          : "-"
 name                     : &name "Bidayatul Masulah"
@@ -58,13 +58,13 @@ author:
   # Social media
   artstation       : # Username
   bluesky          : #"bsky.app" # Replace this with you Bluesky username
-  facebook         : https://www.facebook.com/BidayatulMasulah/
+  facebook         : /BidayatulMasulah/
   flickr           : # Username
   foursquare       : # Username
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : https://www.instagram.com/bida.ym/
+  instagram        : /bida.ym/
   lastfm           : # Username
   linkedin         : https://www.linkedin.com/in/bidayatulmasulah/
   mastodon         : # URL
