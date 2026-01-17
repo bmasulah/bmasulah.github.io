@@ -95,8 +95,8 @@ redirect_from:
 *2025 – Present*  
 - Teaching SAT preparation with emphasis on critical reasoning and strategy.
 
-**English & IELTS Instructor** — Schoters by Ruangguru  
-*2022 – 2023*  
+**English & IELTS Instructor** — Schoters  
+*2022 – Present*  
 - IELTS preparation and academic English for study abroad.
 
 **Mathematics Instructor (SBMPTN Prep)** — Sang Juara School  
@@ -126,12 +126,12 @@ redirect_from:
 
 ## 📚 Publications
 
-- **Masulah, B.**, Nur, Y. S. R., Sa’adah, A., Aldo, D. (2025).  
-  *Causal Modeling of Factors in Stunting Using the Peter-Clark and Greedy Equivalence Search Algorithms*.  
+- Nur, Y. S. R., Sa’adah, A., Aldo, D., **Masulah, B.** (2025).  
+  [*Causal Modeling of Factors in Stunting Using the Peter-Clark and Greedy Equivalence Search Algorithms*](https://ejournal.nusamandiri.ac.id/index.php/jitk/article/view/6184).  
   **JITK**, 10(3), 523–533.
 
 - Sa’adah, A., Prihantini, P., **Masulah, B.** (2023).  
-  *The Effect of Virotherapy, Chemotherapy, and Immunotherapy to Immune System: A Mathematical Modelling Approach*.  
+  [*The Effect of Virotherapy, Chemotherapy, and Immunotherapy to Immune System: A Mathematical Modelling Approach*](https://www.researchgate.net/publication/376088503_The_Effect_of_Virotherapy_Chemotherapy_and_Immunotherapy_to_Immune_System_Mathematical_Modelling_Approach).  
   **KUBIK**, 8(2).
 
 ---
