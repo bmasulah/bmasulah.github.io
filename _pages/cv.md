@@ -9,56 +9,144 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+---
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+## **Bidayatul Masulah (Bida)**
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+---
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+## 🎓 Education
+
+**M.Sc. in Mathematics (Applied Mathematics)**  
+Leiden University, The Netherlands  
+*2023 – 2025*  
+- GPA: **8/10**  
+- Thesis: *Computer Modeling of Thymic Epithelial Cell Morphology*  
+- Thesis Internship: Utrecht University (July 2024 – January 2025)  
+- Supervisors:  
+  - Dr. Erika Tsingos (Utrecht University)  
+  - Prof. dr. Roeland M. H. Merks (Leiden University)  
+- Focus: Multiscale Mathematical Modeling, Computational Biology, Complex Systems, Numerical Simulation  
+
+**B.Sc. in Mathematics**  
+Airlangga University, Indonesia  
+*2015 – 2019*  
+- GPA: **3.74 / 4.00**  
+- Thesis: *Ketaksamaan pada Fungsi Gamma-q*  
+- Supervisors: Dr. Eridani; Abdulloh Jaelani, M.Si.
+
+---
+
+## 🔬 Research & Professional Training
+
+- **Summer School on Waves: Modeling, Analysis, and Numerics**  
+  Radboud University, Netherlands (2025)  
+  One-week intensive course on wave modeling and numerical methods.
+
+- **Master Thesis Research**  
+  Theoretical Biology & Bioinformatics, Utrecht University (2024–2025)  
+  Particle-based modeling of thymic epithelial cell morphology.
+
+- **3MC + PIMS + ICMS Winter School on Multiscale Modeling**  
+  ICMS, Bayes Centre, Edinburgh, UK (2024)
+
+- **CCSS Masterclass on Complex Spatial Networks**  
+  Utrecht University, Netherlands (2024)
+
+- **Quantum Mathematics Masterclass**  
+  University of Copenhagen, Denmark (2023)
+
+- **IBM Machine Learning Scholarship**  
+  Ministry of Communication and Information Technology, Indonesia (2021)  
+  Python, AI Fundamentals (University of Helsinki), Machine Learning (Dicoding)
+
+---
+
+## 📢 Conferences & Presentations
+
+- **Oral**, *Flux-Informed Cellular Automata for Simulating Tropical Vegetation Patch Dynamics under Climate Stress*  
+  AsiaFlux Conference 2025
+
+- **Poster**, *Machine Learning-Based Prediction of Functional Recovery in Spinal Cord Injury Patients*  
+  10th International Transplant and Cellular Therapy Course, Barcelona (2025)
+
+- **Oral**, *Real-Time Statistical Shape Evolution Modeling for Non-Invasive Prediction of Gastrointestinal Lesion Progression*  
+  KSGE Days 2025
+
+- **Poster**, *Computer Modeling of Thymic Epithelial Cell Morphology*  
+  Science for Life Conference, Utrecht University (2025)
+
+- **Poster**, *Mathematical Modeling of the Immune System*  
+  Austrian Day of Women in Mathematics (2024)
+
+- **Oral**, *WALL-e (Waterfall Energy Power Plant Devices)*  
+  Asia Youth Scholars Summit (2019)
+
+- **Best Paper & Speaker**, *HISIS – HIV/AIDS Diagnosis System*  
+  Seminar Nasional Matematika, UGM (2018)
+
+- Additional presentations at SENPI, ICMETA, ICMSC, and international innovation forums.
+
+---
+
+## 👩‍🏫 Work Experience
+
+**SAT Tutor (Verbal & Mathematics)** — Kobi Education  
+*2025 – Present*  
+- Teaching SAT preparation with emphasis on critical reasoning and strategy.
+
+**English & IELTS Instructor** — Schoters by Ruangguru  
+*2022 – 2023*  
+- IELTS preparation and academic English for study abroad.
+
+**Mathematics Instructor (SBMPTN Prep)** — Sang Juara School  
+*2019 – 2022*
+
+**A-Level & International Mathematics Olympiad Tutor** — Superprof  
+*2019 – Present*
+
+**Independent Mathematics Tutor (Freelance)**  
+*2019 – Present*  
+- Olympiad-level mathematics (TIMO, SEAMO, KSN)  
+- Entrance exams (SBMPTN, A-Level)  
+- Mentored students admitted to NTU, NUS; scholarship recipients (e.g., MEXT)
+
+---
+
+## 🏆 Awards & Distinctions
+
+- **Young Investigator Award**, KSGE Days 2025  
+- **Best Oral Presenter**, AsiaFlux Conference 2025  
+- Silver Medal — Symposium on Innovation and Creativity, Thailand (2019)  
+- Silver Medal — Mathematical Analysis & Geometry Days, ITB (2019)  
+- 1st Winner — National Mathematical Modeling Competition, UNP (2019)  
+- Multiple international innovation and mathematics awards (2018–2019)
+
+---
+
+## 📚 Publications
+
+- **Masulah, B.**, Nur, Y. S. R., Sa’adah, A., Aldo, D. (2025).  
+  *Causal Modeling of Factors in Stunting Using the Peter-Clark and Greedy Equivalence Search Algorithms*.  
+  **JITK**, 10(3), 523–533.
+
+- Sa’adah, A., Prihantini, P., **Masulah, B.** (2023).  
+  *The Effect of Virotherapy, Chemotherapy, and Immunotherapy to Immune System: A Mathematical Modelling Approach*.  
+  **KUBIK**, 8(2).
+
+---
+
+## 🎓 Scholarships
+
+- **LPDP Overseas Master Scholarship**, Ministry of Finance, Indonesia (2023–2025)  
+- **PPA Scholarship**, Undergraduate Excellence Award (2015–2019)
+
+---
+
+## 🛠 Skills
+
+- **Programming:** Python, MATLAB, R  
+- **Modeling & Simulation:** Numerical Simulation, Forward Modeling, Tissue Forge  
+- **Machine Learning & AI:** TensorFlow, PyTorch, ML Pipelines
+
