@@ -10,20 +10,20 @@
 main:
 
     
-  - title: "Research"
-    url: /research/
+  #- title: "Research"
+  #  url: /research/
 
-  - title: "Teaching"
-    url: /teaching/    
+ # - title: "Teaching"
+ #   url: /teaching/    
 
   - title: "CV"
     url: /cv/   
 
-  - title: "Journey"
-    url: /journey/
-    
-  - title: "Photography"
-    url: /photography/
+  - title: "Projects"
+    url: /projects/
+
+  - title: "Journeys"
+    url: /journeys/
         
   #- title: "Blog Posts"
    # url: /year-archive/
