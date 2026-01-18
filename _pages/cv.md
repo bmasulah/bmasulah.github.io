@@ -64,8 +64,6 @@ redirect_from:
 
 ## 📢 Conferences & Presentations
 
-- **Oral**, *Flux-Informed Cellular Automata for Simulating Tropical Vegetation Patch Dynamics under Climate Stress*  
-  AsiaFlux Conference 2025
 
 - **Poster**, *Machine Learning-Based Prediction of Functional Recovery in Spinal Cord Injury Patients*  
   10th International Transplant and Cellular Therapy Course, Barcelona (2025)
@@ -115,8 +113,7 @@ redirect_from:
 
 ## 🏆 Awards & Distinctions
 
-- **Young Investigator Award**, KSGE Days 2025  
-- **Best Oral Presenter**, AsiaFlux Conference 2025  
+- Young Investigator Award, KSGE Days 2025  
 - Silver Medal — Symposium on Innovation and Creativity, Thailand (2019)  
 - Silver Medal — Mathematical Analysis & Geometry Days, ITB (2019)  
 - 1st Winner — National Mathematical Modeling Competition, UNP (2019)  
