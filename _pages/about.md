@@ -28,8 +28,9 @@ Teaching & Professional Experience
 ======
 Alongside my academic work, I’m currently active in education:
 
-1. SAT Mathematics Tutor at Kobi Education, teaching mathematical reasoning, problem-solving strategies, and efficient test-taking approaches.
-2. IELTS Instructor at Schoters, focusing on academic English, structured writing, and exam strategies.
+1. Lecturer in Mathematics at School of Data Science, Mathematics and Informatics, IPB University
+2. SAT Mathematics Tutor at Kobi Education, teaching mathematical reasoning, problem-solving strategies, and efficient test-taking approaches.
+3. IELTS Instructor at Schoters, focusing on academic English, structured writing, and exam strategies.
 
 Academic Journey
 ------
