@@ -89,8 +89,12 @@ redirect_from:
 
 ## 👩‍🏫 Teaching Experience
 
+**Lecturer in Mathematics** — SSMI, IPB University  
+*2026 – Present*  
+- Teaching Mathematics for undergraduate students
+
 **SAT Tutor (Verbal & Mathematics)** — Kobi Education  
-*2025 – Present*  
+*2025 – 2026*  
 - Teaching SAT preparation with emphasis on critical reasoning and strategy.
 
 **English & IELTS Instructor** — Schoters  
